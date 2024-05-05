@@ -1,0 +1,22 @@
+[1mdiff --git a/src/index.html b/src/index.html[m
+[1mindex ea9ff45..631076e 100644[m
+[1m--- a/src/index.html[m
+[1m+++ b/src/index.html[m
+[36m@@ -14,7 +14,7 @@[m
+     <meta name="twitter:title" content="Jovian Careers">[m
+     <meta name="twitter:description" content="Learn about job openings at Jovian and submit your application now">[m
+     <meta name="twitter:image" content="/jovian_meta.png">[m
+[31m-    <title>Sudheer Careers</title>[m
+[32m+[m[32m    <title>SudheerNani Careers</title>[m[41m[m
+     <link rel="icon" href="https://i.imgur.com/GMMpgdl.png" type="image/x-icon">[m
+     <link rel="preconnect" href="https://fonts.googleapis.com">[m
+     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>[m
+[36m@@ -27,7 +27,7 @@[m
+     </div>[m
+     <img id="banner" src="Banner.jpg" alt="Banner">[m
+     <h1>[m
+[31m-        About Jovian[m
+[32m+[m[32m        Welcome to Jovian[m[41m[m
+     </h1>[m
+     <div id="about">[m
+         <div id="description">[m
